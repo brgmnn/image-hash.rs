@@ -1,0 +1,8 @@
+[package]
+name = "image-hash"
+version = "0.1.0"
+authors = ["Daniel Bergmann <brgmnn@users.noreply.github.com>"]
+
+[dependencies]
+image = "0.7"
+getopts = "0.2"
